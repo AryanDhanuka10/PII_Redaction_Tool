@@ -27,7 +27,8 @@ from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 
-from pii_engine import PIIMapper, redact_text
+
+from src.pii_engine import PIIMapper, redact_text
 
 app = FastAPI(title="PII Redaction API")
 
