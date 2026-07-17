@@ -12,7 +12,7 @@ Usage: python evaluate.py
 import json
 import sys
 sys.path.insert(0, "../src")
-from pii_engine import PIIMapper, redact_text  # noqa: E402
+from src.pii_engine import PIIMapper, redact_text  # noqa: E402
 
 
 def normalize(s):
