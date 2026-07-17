@@ -1,0 +1,18 @@
+Ticket #10234 opened by Rashi Patil (rashi.patil@gmail.com) from IP 103.25.44.12.
+Customer contact number: +91 9876543210. Alternate: 9123456780.
+Issue: unable to log in to account. Employer listed as Wipro Technologies Limited.
+Shipping address: 42 MG Road, Koramangala, Bengaluru, Karnataka 560034, India.
+Date of birth on file: 14/08/1990.
+Card on file ending confirmed: 4539 1488 0343 6467 (Visa, Luhn-valid test number).
+SSN provided for identity verification (US contractor): 123-45-6789.
+
+Ticket #10235 opened by Rohan Dey (rohan.dey@gmail.com) from IP 45.33.10.222.
+Company: Infosys Ltd. Phone: +91 9988776655.
+Address: Flat 302, Sunrise Apartments, Baner Road, Pune, Maharashtra 411045.
+DOB: 2 March 1985. Credit card: 5425 2334 3010 9903.
+Order number: ORD-58291 (not PII). Ticket number: TCK-77123 (not PII).
+
+Ticket #10236 filed by Ananya Iyer, ananya.iyer@outlook.com, +91 9012345678.
+She works at Tata Consultancy Services. IP address logged: 172.16.254.1.
+Home address: 15 Park Street, Kolkata, West Bengal 700016.
+Date of Birth: 25/12/1992. SSN: 987-65-4321. Card: 4916 1234 5678 9013.

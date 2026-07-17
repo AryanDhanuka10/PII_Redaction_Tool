@@ -1,0 +1,16 @@
+{
+  "PERSON": ["Rashi Patil", "Rohan Dey", "Ananya Iyer"],
+  "EMAIL": ["rashi.patil@gmail.com", "rohan.dey@gmail.com", "ananya.iyer@outlook.com"],
+  "PHONE": ["+91 9876543210", "9123456780", "+91 9988776655", "+91 9012345678"],
+  "ORG": ["Wipro Technologies Limited", "Infosys Ltd", "Tata Consultancy Services"],
+  "ADDRESS": [
+    "42 MG Road, Koramangala, Bengaluru, Karnataka 560034",
+    "Flat 302, Sunrise Apartments, Baner Road, Pune, Maharashtra 411045",
+    "15 Park Street, Kolkata, West Bengal 700016"
+  ],
+  "SSN": ["123-45-6789", "987-65-4321"],
+  "CREDIT_CARD": ["4539 1488 0343 6467", "5425 2334 3010 9903", "4916 1234 5678 9013"],
+  "DOB": ["14/08/1990", "2 March 1985", "25/12/1992"],
+  "IP": ["103.25.44.12", "45.33.10.222", "172.16.254.1"],
+  "NOT_PII_SHOULD_NOT_MATCH": ["ORD-58291", "TCK-77123", "Ticket #10234", "Ticket #10235", "Ticket #10236"]
+}

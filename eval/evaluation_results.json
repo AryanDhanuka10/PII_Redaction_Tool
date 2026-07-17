@@ -1,0 +1,9 @@
+{
+  "per_type": {},
+  "overall_precision": 0.96,
+  "overall_recall": 0.8888888888888888,
+  "overall_f1": 0.923076923076923,
+  "accuracy": 0.90625,
+  "control_false_positives": 0,
+  "control_total": 5
+}
