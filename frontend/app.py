@@ -8,7 +8,7 @@ Run the FastAPI backend first (see README), then:
 import requests
 import streamlit as st
 
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://pii-redaction-tool-1.onrender.com"
 
 st.set_page_config(page_title="PII Redaction Tool", page_icon="🕶️", layout="centered")
 
